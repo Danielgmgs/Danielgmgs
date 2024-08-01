@@ -10,3 +10,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blackttps://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielgmgs&show_icons=true&theme=transparent)
+
+## ✔ Check my codepen!
+
+https://codepen.io/Daniel-Galh-s-Marinho-Gomes
